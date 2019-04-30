@@ -1,4 +1,4 @@
-console.log('Client side javascipt file is loaded!')
+
 
 
 
